@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Karameru2 - Assistant d'extraction</value>
+  </data>
+  <data name="MenuLanguage" xml:space="preserve">
+    <value>Langue</value>
+  </data>
+  <data name="MenuFile" xml:space="preserve">
+    <value>Fichier</value>
+  </data>
+  <data name="MenuHelp" xml:space="preserve">
+    <value>Aide</value>
+  </data>
+  <data name="MenuFormats" xml:space="preserve">
+    <value>Formats supportés</value>
+  </data>
+  <data name="PromptLabel" xml:space="preserve">
+    <value>Votre question ou recherche :</value>
+  </data>
+  <data name="RunButton" xml:space="preserve">
+    <value>Lancer</value>
+  </data>
+  <data name="ResultLabel" xml:space="preserve">
+    <value>Résultat :</value>
+  </data>
+  <data name="OpenArchiveButton" xml:space="preserve">
+    <value>Ouvrir une archive...</value>
+  </data>
+  <data name="ViewBinaryButton" xml:space="preserve">
+    <value>Voir le binaire</value>
+  </data>
+  <data name="Model3DLabel" xml:space="preserve">
+    <value>[Affichage 3D à venir]</value>
+  </data>
+  <data name="UnsupportedFormatError" xml:space="preserve">
+    <value>Format non supporté.</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Erreur</value>
+  </data>
+  <data name="BinaryNotSupportedError" xml:space="preserve">
+    <value>Affichage binaire non supporté pour ce format.</value>
+  </data>
+  <data name="BinaryWindowTitle" xml:space="preserve">
+    <value>Binaire de {0}</value>
+  </data>
+  <data name="SupportedFormatsTitle" xml:space="preserve">
+    <value>Formats d'archives supportés</value>
+  </data>
+</root> 

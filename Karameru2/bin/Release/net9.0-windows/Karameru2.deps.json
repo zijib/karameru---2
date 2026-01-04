@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Karameru2/1.0.0": {
+        "runtime": {
+          "Karameru2.dll": {}
+        },
+        "resources": {
+          "en/Karameru2.resources.dll": {
+            "locale": "en"
+          },
+          "es/Karameru2.resources.dll": {
+            "locale": "es"
+          },
+          "fr/Karameru2.resources.dll": {
+            "locale": "fr"
+          },
+          "it/Karameru2.resources.dll": {
+            "locale": "it"
+          },
+          "ja/Karameru2.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/Karameru2.resources.dll": {
+            "locale": "ko"
+          },
+          "zh/Karameru2.resources.dll": {
+            "locale": "zh"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Karameru2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

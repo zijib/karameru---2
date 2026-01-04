@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Karameru2 - 提取助手</value>
+  </data>
+  <data name="MenuLanguage" xml:space="preserve">
+    <value>语言</value>
+  </data>
+  <data name="MenuFile" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="MenuHelp" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="MenuFormats" xml:space="preserve">
+    <value>支持格式</value>
+  </data>
+  <data name="PromptLabel" xml:space="preserve">
+    <value>您的问题或搜索:</value>
+  </data>
+  <data name="RunButton" xml:space="preserve">
+    <value>运行</value>
+  </data>
+  <data name="ResultLabel" xml:space="preserve">
+    <value>结果:</value>
+  </data>
+  <data name="OpenArchiveButton" xml:space="preserve">
+    <value>打开存档...</value>
+  </data>
+  <data name="ViewBinaryButton" xml:space="preserve">
+    <value>查看二进制</value>
+  </data>
+  <data name="Model3DLabel" xml:space="preserve">
+    <value>[3D显示即将推出]</value>
+  </data>
+  <data name="UnsupportedFormatError" xml:space="preserve">
+    <value>不支持的格式。</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>错误</value>
+  </data>
+  <data name="BinaryNotSupportedError" xml:space="preserve">
+    <value>此格式不支持二进制显示。</value>
+  </data>
+  <data name="BinaryWindowTitle" xml:space="preserve">
+    <value>{0}的二进制</value>
+  </data>
+  <data name="SupportedFormatsTitle" xml:space="preserve">
+    <value>支持的存档格式</value>
+  </data>
+</root> 

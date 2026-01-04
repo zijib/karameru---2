@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Karameru2 - 抽出アシスタント</value>
+  </data>
+  <data name="MenuLanguage" xml:space="preserve">
+    <value>言語</value>
+  </data>
+  <data name="MenuFile" xml:space="preserve">
+    <value>ファイル</value>
+  </data>
+  <data name="MenuHelp" xml:space="preserve">
+    <value>ヘルプ</value>
+  </data>
+  <data name="PromptLabel" xml:space="preserve">
+    <value>ご質問や検索内容：</value>
+  </data>
+  <data name="RunButton" xml:space="preserve">
+    <value>実行</value>
+  </data>
+  <data name="ResultLabel" xml:space="preserve">
+    <value>結果：</value>
+  </data>
+</root> 
