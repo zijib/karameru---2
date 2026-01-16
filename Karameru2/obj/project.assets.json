@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\karameru 2\\karameru2\\Karameru2\\Karameru2.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\karameru 2\\karameru2\\karameru---2\\Karameru2\\Karameru2.csproj",
       "projectName": "Karameru2",
-      "projectPath": "C:\\Users\\user\\Documents\\karameru 2\\karameru2\\Karameru2\\Karameru2.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\karameru 2\\karameru2\\karameru---2\\Karameru2\\Karameru2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\karameru 2\\karameru2\\Karameru2\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\karameru 2\\karameru2\\karameru---2\\Karameru2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

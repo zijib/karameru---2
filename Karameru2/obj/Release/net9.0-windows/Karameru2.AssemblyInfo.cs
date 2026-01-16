@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karameru2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03938d1bf0b2b9641ab2fbe805bf63d5a3baa1c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karameru2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karameru2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
